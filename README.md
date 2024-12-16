@@ -1,15 +1,8 @@
 <div>
   <img src="https://capsule-render.vercel.app/api?type=Venom&color=D8BFD8&height=200&section=header&text=Welcome%20To-nl-Tendai%20GitHub&fontColor=000000&fontSize=60" />
-
 </div>
 
-
-<div align=center> 
-  <a href="https://yunseungbum.github.io/portfolio/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 5px; font-size: 30px;">📂Portfolio</a>
-</div>
-
-
-<div align="center"><h1>📚 STACKS</h1></div>
+<div align="center"><h3>📚 STACKS</h3>
 <div align="center"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <br>
@@ -40,6 +33,10 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
   </div>
+  <h3>Portfilo</h3>
+  <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
 </div>
+
 
 
