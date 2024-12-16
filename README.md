@@ -5,8 +5,8 @@
 
 
 
-<div align=center><h1>📚 STACKS</h1></div>
-<div align=center> 
+<div align="center"><h2>📚 STACKS</h2></div>
+<div align="center"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <br>
   
@@ -38,6 +38,4 @@
   </div>
 </div>
 
-<div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunseungbum&layout=compact)
-</div>
+
