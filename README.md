@@ -5,12 +5,12 @@
 
 
 <div align=center> 
- <h2 style="font-size: 36px;"><strong>Portfolio</strong></h2>
+ <h1>Portfolio</h1>
   <a href="https://github.com/yunseungbum/portfolio.git" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 5px; font-size: 16px;">📂 나야,농</a>
 </div>
 
 
-<div align="center"><h2>📚 STACKS</h2></div>
+<div align="center"><h1>📚 STACKS</h1></div>
 <div align="center"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <br>
