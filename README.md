@@ -1,8 +1,12 @@
-<div><h1>어서오세요. 백엔드 개발자 Tendai입니다.</h1></div>
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=Venom&color=D8BFD8&height=200&section=header&text=Welcome%20To-nl-Tendai%20GitHub&fontColor=000000&fontSize=60" />
+
+</div>
 
 
-📚 STACKS
-<div> 
+
+<div align=center><h1>📚 STACKS</h1></div>
+<div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <br>
   
@@ -31,4 +35,9 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
+  </div>
+</div>
+
+<div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunseungbum&layout=compact)
 </div>
