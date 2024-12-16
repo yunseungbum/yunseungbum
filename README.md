@@ -1,7 +1,7 @@
 <div><h1>어서오세요. 백엔드 개발자 Tendai입니다.</h1></div>
-<div></div>
 
-##📚 STACKS
+
+📚 STACKS
 <div> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <br>
