@@ -1,4 +1,4 @@
-## 어서오세요 Tendai백엔드개발자입니다
+<div align=center><h1>어서오세요. 백엔드 개발자 Tendai입니다.</h1></div>
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
