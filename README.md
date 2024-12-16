@@ -33,9 +33,8 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
   </div>
-  <h3>Portfilo</h3>
-  <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
+ <h3><a href="https://yunseungbum.github.io/portfolio/">포트폴리오</a></h3>
+
 </div>
 
 
