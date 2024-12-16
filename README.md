@@ -5,7 +5,7 @@
 
 
 <div align=center> 
-  <h1 href="https://yunseungbum.github.io/portfolio/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 5px; font-size: 16px;">📂Portfolio</h1>
+  <a href="https://yunseungbum.github.io/portfolio/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 5px; font-size: 30px;">📂Portfolio</a>
 </div>
 
 
