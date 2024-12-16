@@ -6,7 +6,7 @@
 
 <div align=center> 
  <h1>Portfolio</h1>
-  <a href="https://github.com/yunseungbum/portfolio.git" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 5px; font-size: 16px;">📂 나야,농</a>
+  <a href="https://yunseungbum.github.io/portfolio/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 5px; font-size: 16px;">📂 나야,농</a>
 </div>
 
 
