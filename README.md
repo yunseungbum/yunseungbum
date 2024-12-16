@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Venom&color=D8BFD8&height=200&section=header&text=Welcome%20To-nl-Tendai%20GitHub&fontColor=000000&fontSize=60" />
 </div>
 
-<div align="center"><h3>📚 STACKS</h3>
+<div align="center"><h2>📚 STACKS</h2>
 <div align="center"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <br>
@@ -32,9 +32,13 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
-  </div>
- <h3><a href="https://yunseungbum.github.io/portfolio/">포트폴리오</a></h3>
 
+   <h2>Portfilo</h2>
+   <div align="center">
+      <a href="https://yunseungbum.github.io/portfolio">
+         <img src="https://img.shields.io/badge/ClickMe-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
+  </div>
 </div>
 
 
