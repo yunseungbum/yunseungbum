@@ -3,9 +3,10 @@
 
 </div>
 
-<div align="center"><h2>Portfolio</h2></div>
-<div aligin = "center">
-  
+
+<div align=center> 
+  <h2><strong>Portfolio</strong></h2>
+  <a href="https://github.com/yunseungbum/portfolio.git" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 5px; font-size: 16px;">📂 포트폴리오 저장소</a>
 </div>
 
 
