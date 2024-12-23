@@ -35,7 +35,7 @@
 
    <h2>Portfilo</h2>
    <div align="center">
-      <a href="https://yunseungbum.github.io/portfolio">
+      <a href="https://yunseungbum.github.io">
          <img src="https://img.shields.io/badge/ClickMe-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
   </div>
