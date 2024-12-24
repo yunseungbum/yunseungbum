@@ -1,5 +1,5 @@
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=Venom&color=D8BFD8&height=200&section=header&text=Welcome%20To-nl-Tendai%20GitHub&fontColor=000000&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=Venom&color=D8BFD8&height=200&section=header&text=Welcome%20To-nl-Tendai%20GitHub&fontColor=0000ff&fontSize=60" />
 </div>
 
 <div align="center"><h2>📚 STACKS</h2>
